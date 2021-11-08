@@ -1,7 +1,7 @@
-# activiti-used-demo
+# activiti-used
 
 #### Description
-activiti-demo，基于activiti 5.22.0
+activiti-used，基于activiti 5.22.0
 
 #### Software Architecture
 Software architecture description
